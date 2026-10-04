@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm MD Mottasim Billa
 
-<!--
-**mdmottasimbilla/mdmottasimbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HR & Operations Leader | Robotics Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+I'm passionate about technology, robotics, and building high-performing teams.  
+Currently working in **HR & Operations** while actively exploring the world of tech and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💼 Working as **CHRO & COO** at Robo Superior (2+ years)
+- 👥 HR Professional & Operations Assistant at Arionys
+- 🤖 Experienced in managing robotics projects, competitions, and team operations
+- 🌱 Always learning new skills and exploring emerging technologies
+- 💡 Strong believer in people-first leadership and collaborative work culture
+
+### 🔧 What I Do
+- Lead people and operations in tech/robotics environments
+- Build positive team culture and manage high-pressure projects
+- Organize competitions and drive operational excellence
+- Continuously upgrade myself with new tech knowledge
+
+
+⭐️ Thanks for visiting my profile!
