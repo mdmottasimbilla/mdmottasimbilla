@@ -1,6 +1,22 @@
+# Hi there 👋, I'm MD Mottasim Billa
 
-# Hi there 👋, I'm MD Mottasim Billa<br><br>### HR & Operations Leader | Robotics Enthusiast | Tech Explorer<br><br>I'm passionate about technology, robotics, and building high-performing teams.  <br>Currently working in **HR & Operations** while actively exploring the world of tech and continuous learning.<br><br>### 🚀 About Me<br>- 💼 Working as **CHRO & COO** at Robo Superior (2+ years)<br>- 👥 HR Professional & Operations Assistant at Arionys<br>- 🤖 Experienced in managing robotics projects, competitions, and team operations<br>- 🌱 Always learning new skills and exploring emerging technologies<br>- 💡 Strong believer in people-first leadership and collaborative work culture<br><br>### 🔧 What I Do<br>- Lead people and operations in tech/robotics environments<br>- Build positive team culture and manage high-pressure projects<br>- Organize competitions and drive operational excellence<br>- Continuously upgrade myself with new tech knowledge<br><br>⭐️ Thanks for visiting my profile!
+### HR & Operations Leader | Robotics Enthusiast | Tech Explorer
 
+I'm passionate about technology, robotics, and building high-performing teams.  
+Currently working in **HR & Operations** while actively exploring the world of tech and continuous learning.
+
+### 🚀 About Me
+- 💼 Working as **CHRO & COO** at Robo Superior (2+ years)
+- 👥 HR Professional & Operations Assistant at Arionys
+- 🤖 Experienced in managing robotics projects, competitions, and team operations
+- 🌱 Always learning new skills and exploring emerging technologies
+- 💡 Strong believer in people-first leadership and collaborative work culture
+
+### 🔧 What I Do
+- Lead people and operations in tech/robotics environments
+- Build positive team culture and manage high-pressure projects
+- Organize competitions and drive operational excellence
+- Continuously upgrade myself with new tech knowledge
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mottasimbilla.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.mottasimbilla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmottasimbilla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mottasimbilla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mottasim2008@gmail.com) 
